@@ -1,0 +1,45 @@
+﻿@using Core.Models
+@model List<Product>
+
+@{
+    int counter = 1;
+}
+<div class="container">
+    <div class="row">
+        <div class="row">
+            <a class="btn btn-outline-primary" asp-action="Create" asp-controller="product">Create</a>
+        </div>
+        <div class="col-12">
+            <table class="table" >
+                <thead>
+                    <tr>
+                        <th scope="col">#</th>
+                        <th scope="col">Name</th>
+                        <th scope="col">Description</th>
+                        <th scope="col">Price</th>
+                        <th scope="col">Image</th>
+
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <th scope="row">1</th>
+                            <td>@item.Name</td>
+                            <td>@item.Description</td>
+                            <td>@item.Price</td>
+                            <td><img src="~/uploads/products/@item.ImageUrl" alt="Alternative" width="100px" height="100px" /></td>
+
+                            <td>
+                                <a asp-action="Delete" asp-controller="Product" asp-route-id="@item.Id" class="btn btn-outline-danger">Delete</a>
+                                <a asp-action="Update" asp-controller="Product" asp-route-id="@item.Id" class="btn btn-outline-danger">Update</a>
+
+                            </td>
+                        </tr>
+                    }               
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

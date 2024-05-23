@@ -1,0 +1,21 @@
+﻿@using Core.Models
+@model Product
+
+<div class="container">
+    <div class="row">
+        <form method="post" asp-action="DeletePost">
+            <div class="card" style="width: 18rem;">
+                <img src="~/uploads/products/@Model.ImageUrl" alt="Alternative" class="card-img" />
+
+                <div class="card-body">
+                    <h5 class="card-title">@Model.Name</h5>
+                    <p class="card-text">@Model.Description</p>
+                    <p class="card-text">@Model.Price</p>
+                    <a asp-action="index" asp-controller="Product" class="btn btn-outline-primary">go back</a>
+                    <input asp-for="@Model.Id" hidden value="@Model.Id" />
+                    <button type="submit" class="btn btn-outline-danger">Delete</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>

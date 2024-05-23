@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\giftostemp\\Giftos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6188803-8C02-4576-9C19-2EA9147E2E7B}|Business\\Business.csproj|c:\\users\\ca.r214.05\\desktop\\ab204araz\\giftostemp\\giftos\\business\\services\\concretes\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6188803-8C02-4576-9C19-2EA9147E2E7B}|Business\\Business.csproj|solutionrelative:business\\services\\concretes\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0A7BC4-FA18-43E4-8DD5-0891B6DCF4F4}|Giftos\\Giftos.csproj|c:\\users\\ca.r214.05\\desktop\\ab204araz\\giftostemp\\giftos\\giftos\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E0A7BC4-FA18-43E4-8DD5-0891B6DCF4F4}|Giftos\\Giftos.csproj|solutionrelative:giftos\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0A7BC4-FA18-43E4-8DD5-0891B6DCF4F4}|Giftos\\Giftos.csproj|c:\\users\\ca.r214.05\\desktop\\ab204araz\\giftostemp\\giftos\\giftos\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E0A7BC4-FA18-43E4-8DD5-0891B6DCF4F4}|Giftos\\Giftos.csproj|solutionrelative:giftos\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0A7BC4-FA18-43E4-8DD5-0891B6DCF4F4}|Giftos\\Giftos.csproj|c:\\users\\ca.r214.05\\desktop\\ab204araz\\giftostemp\\giftos\\giftos\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E0A7BC4-FA18-43E4-8DD5-0891B6DCF4F4}|Giftos\\Giftos.csproj|solutionrelative:giftos\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0A7BC4-FA18-43E4-8DD5-0891B6DCF4F4}|Giftos\\Giftos.csproj|c:\\users\\ca.r214.05\\desktop\\ab204araz\\giftostemp\\giftos\\giftos\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E0A7BC4-FA18-43E4-8DD5-0891B6DCF4F4}|Giftos\\Giftos.csproj|solutionrelative:giftos\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0A7BC4-FA18-43E4-8DD5-0891B6DCF4F4}|Giftos\\Giftos.csproj|c:\\users\\ca.r214.05\\desktop\\ab204araz\\giftostemp\\giftos\\giftos\\areas\\admin\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E0A7BC4-FA18-43E4-8DD5-0891B6DCF4F4}|Giftos\\Giftos.csproj|solutionrelative:giftos\\areas\\admin\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 202,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\giftostemp\\Giftos\\Giftos\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "Giftos\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\giftostemp\\Giftos\\Giftos\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "Giftos\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T13:48:19.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\giftostemp\\Giftos\\Giftos\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Giftos\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\giftostemp\\Giftos\\Giftos\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "Giftos\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T13:31:02.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\giftostemp\\Giftos\\Giftos\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Giftos\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\giftostemp\\Giftos\\Giftos\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Giftos\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T13:28:49.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\giftostemp\\Giftos\\Giftos\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Giftos\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\giftostemp\\Giftos\\Giftos\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Giftos\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T13:26:35.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\giftostemp\\Giftos\\Business\\Services\\Concretes\\ProductService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Concretes\\ProductService.cs",
+              "ToolTip": "C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\giftostemp\\Giftos\\Business\\Services\\Concretes\\ProductService.cs",
+              "RelativeToolTip": "Business\\Services\\Concretes\\ProductService.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAowEIAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T13:24:14.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\giftostemp\\Giftos\\Giftos\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Giftos\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\giftostemp\\Giftos\\Giftos\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Giftos\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAMwGAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T13:24:06.616Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
